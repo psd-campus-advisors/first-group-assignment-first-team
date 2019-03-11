@@ -7,10 +7,8 @@ Copy and paste this template, and fill in the relevant information:
 
 --
 
-* Name: Vanessa Gennarelli
-* School: GitHub Education
-* Course website or GitHub Repository: https://github.com/Campus-Advisors
+* Name: Brendan Quinn
+* School: Pasco School District
+* Course website or GitHub Repository: psd-campus-advisors/first-group-assignment-first-team
 
 --
-
-
